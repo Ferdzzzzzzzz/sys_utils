@@ -5,7 +5,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/Ferdzzzzzzzz/tree/x/twx"
+	"github.com/Ferdzzzzzzzz/sys_utils/x/twx"
 )
 
 func main() {
